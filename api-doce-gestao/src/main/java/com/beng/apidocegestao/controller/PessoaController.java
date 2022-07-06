@@ -1,6 +1,5 @@
 package com.beng.apidocegestao.controller;
 
-import com.beng.apidocegestao.dto.EnderecoNovoDTO;
 import com.beng.apidocegestao.dto.PessoaNovaDTO;
 import com.beng.apidocegestao.model.Pessoa;
 import com.beng.apidocegestao.repository.PessoaRepository;
